@@ -6,7 +6,7 @@
 
 = Simple ServerWeb
 
-Aggiungere le proprie credenziali per login WiFi Access Point Personal
+Aggiungere le proprie credenziali al file arduino_secrets.h per login WiFi Access Point Personal
 
 Describe your project
 
